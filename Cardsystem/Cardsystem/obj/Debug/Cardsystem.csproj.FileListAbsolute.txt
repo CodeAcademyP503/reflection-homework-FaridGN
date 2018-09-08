@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Cardsystem\Cardsystem\bin\Debug\Cardsystem.exe.config
+C:\Users\User\source\repos\Cardsystem\Cardsystem\bin\Debug\Cardsystem.exe
+C:\Users\User\source\repos\Cardsystem\Cardsystem\bin\Debug\Cardsystem.pdb
+C:\Users\User\source\repos\Cardsystem\Cardsystem\obj\Debug\Cardsystem.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Cardsystem\Cardsystem\obj\Debug\Cardsystem.Mainform.resources
+C:\Users\User\source\repos\Cardsystem\Cardsystem\obj\Debug\Cardsystem.Properties.Resources.resources
+C:\Users\User\source\repos\Cardsystem\Cardsystem\obj\Debug\Cardsystem.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Cardsystem\Cardsystem\obj\Debug\Cardsystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cardsystem\Cardsystem\obj\Debug\Cardsystem.exe
+C:\Users\User\source\repos\Cardsystem\Cardsystem\obj\Debug\Cardsystem.pdb
